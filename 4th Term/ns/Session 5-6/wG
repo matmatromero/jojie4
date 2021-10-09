@@ -1,0 +1,42 @@
+Matmat Nika {'term': 'first', 'weight': 14}
+Matmat Tal {'term': 'first', 'weight': 13}
+Matmat Ralph {'term': 'first', 'weight': 13}
+Matmat Kris {'term': 'first', 'weight': 11}
+Matmat Dan {'term': 'first', 'weight': 15}
+Matmat Cedric {'term': 'second', 'weight': 17}
+Matmat Jasper {'term': 'second', 'weight': 17}
+Matmat Josef {'term': 'second', 'weight': 17}
+Matmat Alejandro {'term': 'second', 'weight': 15}
+Matmat Nicole {'term': 'second', 'weight': 17}
+Matmat Jason {'term': 'third', 'weight': 17}
+Matmat Dennis {'term': 'third', 'weight': 18}
+Matmat Cy {'term': 'third', 'weight': 18}
+Matmat Elkan {'term': 'fourth', 'weight': 20}
+Matmat Jelo {'term': 'fourth', 'weight': 20}
+Matmat Lennart {'term': 'fourth', 'weight': 20}
+Nika Tal {}
+Nika Ralph {}
+Nika Kris {}
+Nika Dan {}
+Tal Ralph {}
+Tal Kris {}
+Tal Dan {}
+Ralph Kris {}
+Ralph Dan {}
+Kris Dan {}
+Cedric Jasper {}
+Cedric Nicole {}
+Cedric Josef {}
+Cedric Alejandro {}
+Jasper Nicole {}
+Jasper Josef {}
+Jasper Alejandro {}
+Josef Nicole {}
+Josef Alejandro {}
+Alejandro Nicole {}
+Jason Cy {}
+Jason Dennis {}
+Dennis Cy {}
+Elkan Lennart {}
+Elkan Jelo {}
+Jelo Lennart {}
